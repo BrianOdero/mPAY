@@ -2,7 +2,7 @@
 
 **Database Name: vehiclebookings**
 
-**Developed by Martin Gareth Chemwa**
+**Developed by  Gareth Chemwa**
 
 **Recommended PHP Version 5.6, 7.4**
 
